@@ -1,1 +1,1 @@
-# asci
+# Bu site aşçılık mesleğini öğrenmek isteyen bir yazılımcı tarafından geliştirilmektedir.
